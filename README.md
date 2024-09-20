@@ -18,8 +18,8 @@ During the studies, I had the opportunity to familiarize myself with many techno
     <p align="center">
       
 Programming Languages:\
+  ![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
   ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-  ![C#](https://img.shields.io/badge/C%23-00599C.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
   ![R](https://img.shields.io/badge/R-00599C.svg?style=for-the-badge&logo=r&logoColor=white)&nbsp;
   ![Python](https://img.shields.io/badge/PYTHON-00599C.svg?&style=for-the-badge&logo=python&logoColor=white)&nbsp;
   ![Kotlin](https://img.shields.io/badge/kotlin-00599C.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
@@ -28,17 +28,18 @@ Programming Languages:\
   ![HTML5](https://img.shields.io/badge/html5-00599C.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
   
   ML/DL:\
-  ![NumPy](https://img.shields.io/badge/numpy-%233F4F75.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-%233F4F75.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%233F4F75.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![seaborn](https://img.shields.io/badge/seaborn-%233F4F75.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-  ![matplotlib](https://img.shields.io/badge/matplotlib-%233F4F75.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/numpy-%233F4F75.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+  ![Pandas](https://img.shields.io/badge/pandas-%233F4F75.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%233F4F75.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+  ![seaborn](https://img.shields.io/badge/seaborn-%233F4F75.svg?style=for-the-badge&logo=seaborn&logoColor=white)&nbsp;
+  ![matplotlib](https://img.shields.io/badge/matplotlib-%233F4F75.svg?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;
 
   Database Management Systems:\
   ![SQLite](https://img.shields.io/badge/SQLITE-4479A1.svg?&style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
   ![Oracle](https://img.shields.io/badge/ORACLE-4479A1.svg?&style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
+  ![Postgre](https://img.shields.io/badge/PostgreSQL-4479A1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)&nbsp;
   
   IDEs:\
   ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=for-the-badge&logo=visual-studio-code)&nbsp;
