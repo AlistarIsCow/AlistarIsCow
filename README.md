@@ -77,4 +77,5 @@ Programming Languages:\
   <a href="https://www.linkedin.com/in/kacper-matecki/"><img src="https://img.shields.io/badge/linkedin-ffca16.svg?&style=for-the-badge&logo=linkedin&color=blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=kacpermatecki9@gmail.com&tf=cm"><img src="https://img.shields.io/badge/gmail-ffca16.svg?&style=for-the-badge&logo=gmail&color=grey" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/kacper.matecki.50/"><img src="https://img.shields.io/badge/facebook-ffca16.svg?&style=for-the-badge&logo=facebook&logoColor=blue&color=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Kacper_Matecki/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
